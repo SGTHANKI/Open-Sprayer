@@ -1,0 +1,37 @@
+﻿Starting sequence Thu Mar 28 15:57:37 2024
+_seqline	_dataname$	_alsbottle	_alsbottle2	_methpath$	_methfile$	_datapath$	Sdatafile$	_runtype$	_levelid$	_multiplr	_miscinfo$	_sampamt	_injvol	_injvol2	_expbarcode$	_expbarcode2$	_pretreatpath$	_pretreatfile$	_traypicked	_balanceoverride	_damethodpathname$	_damethodfilename$	_dareportpath$	_sampleinformation$	_istdamt	_keyword$	_keywordstring$	_matrixspikegroup$	_samplegroup$	_samplingdatetime	_samplingtime	_totalsampleamount	
+1	ACN-Blank	11	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	ACN-PEEK-Blank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+2	ACN-PEEK	12	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2hour\	ACN-PEEK-2Hour.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+3	ACN-PEEK	13	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2day\	ACN-PEEK-2Day.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+4	ACN-PEEK	14	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\1week\	ACN-PEEK-1Week.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+5	ACN-EndBlank	11	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	ACN-PEEK-EndBlank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+6	MEOH-Blank	21	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	MEOH-Blank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+7	MEOH-PEEK	22	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2hour\	MEOH-PEEK-2Hour.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+8	MEOH-PEEK	23	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2day\	MEOH-PEEK-2Day.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+9	MEOH-PEEK	24	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\1week\	MEOH-PEEK-1Week.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+10	MEOH-EndBlank	21	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	MEOH-EndBlank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+11	IPA-Blank	31	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	IPA-Blank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+12	IPA-PEEK	32	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2hour\	IPA-PEEK-2Hour.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+13	IPA-PEEK	33	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2day\	IPA-PEEK-2Day.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+14	IPA-PEEK	34	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\1week\	IPA-PEEK-1Week.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+15	IPA-EndBlank	31	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	IPA-EndBlank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+16	TCM-Blank	41	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	TCM-Blank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+17	TCM-PEEK	42	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2hour\	TCM-PEEK-2Hour.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+18	TCM-PEEK	43	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2day\	TCM-PEEK-2Day.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+19	TCM-PEEK	44	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\1week\	TCM-PEEK-1Week.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+20	TCM-EndBlank	41	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	TCM-EndBlank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+21	ACE-Blank	51	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	ACE-Blank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+22	ACE-PEEK	52	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2hour\	ACE-PEEK-2Hour.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+23	ACE-PEEK	53	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2day\	ACE-PEEK-2Day.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+24	ACE-PEEK	54	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\1week\	ACE-PEEK-1Week.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+25	ACE-EndBlank	51	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	ACE-EndBlank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+26	EA-Blank	61	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	EA-Blank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+27	EA-PEEK	62	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2hour\	EA-PEEK-2Hour.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+28	EA-PEEK	63	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2day\	EA-PEEK-2Day.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+29	EA-PEEK	64	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\1week\	EA-PEEK-1Week.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+30	EA-EndBlank	61	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	EA-EndBlank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+31	TOL-Blank	71	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	TOL-Blank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+32	TOL-PEEK	72	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2hour\	TOL-PEEK-2Hour.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+33	TOL-PEEK	73	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\2day\	TOL-PEEK-2Day.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+34	TOL-PEEK	74	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\1week\	TOL-PEEK-1Week.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	
+35	TOL-EndBlank	71	0	D:\MassHunter\GCMS\Adam\Methods\	Test.M	D:\MassHunter\GCMS\Adam\Data\20240328\blanks\	TOL-EndBlank.D	Sample		1		0	0	0			D:\MassHunter\GCMS\1\PreTreat\			0					0						0	0	

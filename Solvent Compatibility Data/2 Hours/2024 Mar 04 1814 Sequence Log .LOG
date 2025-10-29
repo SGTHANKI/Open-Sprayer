@@ -1,0 +1,70 @@
+﻿    Starting sequence Mon Mar 04 18:14:38 2024
+     
+  Instrument Name: GCMS
+    Sequence File: D:\MassHunter\GCMS\Adam\Sequence\plastic_solvent_test.sequence.x
+...                ml
+          Comment:  
+         Operator:  
+        Data Path: D:\MassHunter\GCMS\Adam\Data\20240304-Plastic_solvents\2-Hour Ex
+...                posure\
+
+    Line  Type          Vials    DataFile                       Sample Name
+    -----------------------------------------------------------------------
+    Acquisition Method Path: D:\MassHunter\GCMS\Adam\Methods\
+    Acquisition Method File: Test.M
+      1) Sample           1      ACN-BLANK              ACN-Blank                
+      2) Sample           2      ACN-SLA                ACN-SLA                  
+      3) Sample           3      ACN-PA                 ACN-PA                   
+      4) Sample           4      ACN-PP                 ACN-PP                   
+      5) Sample           5      ACN-ABS                ACN-ABS                  
+      6) Sample           6      ACN-PET                ACN-PET                  
+      7) Sample           7      ACN-ASA                ACN-ASA                  
+      8) Sample           1      ACN-End-Blank          ACN-End-Blank            
+      9) Sample          11      MEOH-Blank             MEOH-Blank               
+     10) Sample          12      MEOH-SLA               MEOH-SLA                 
+     11) Sample          13      MEOH-PA                MEOH-PA                  
+     12) Sample          14      MEOH-PP                MEOH-PP                  
+     13) Sample          15      MEOH-ABS               MEOH-ABS                 
+     14) Sample          16      MEOH-PET               MEOH-PET                 
+     15) Sample          17      MEOH-ASA               MEOH-ASA                 
+     16) Sample          18      MEOH-PLA               MEOH-PLA                 
+     17) Sample        19  ALS vial skipped, sample not injected.
+     18) Sample          21      IPA-Blank              IPA-Blank                
+     19) Sample          22      IPA-SLA                IPA-SLA                  
+     20) Sample          23      IPA-PA                 IPA-PA                   
+     21) Sample          24      IPA-PP                 IPA-PP                   
+     22) Sample          25      IPA-ABS                IPA-ABS                  
+     23) Sample          26      IPA-PET                IPA-PET                  
+     24) Sample          27      IPA-ASA                IPA-ASA                  
+     25) Sample          28      IPA-PLA                IPA-PLA                  
+     26) Sample          21      IPA-End-Blank          IPA-End-Blank            
+     27) Sample          31      TCM-Blank              TCM-Blank                
+     28) Sample          32      TCM-SLA                TCM-SLA                  
+     29) Sample          33      TCM-PA                 TCM-PA                   
+     30) Sample          34      TCM-PP                 TCM-PP                   
+     31) Sample          31      TCM-End-Blank          TCM-End-Blank            
+     32) Sample          41      ACE-Blank              ACE-Blank                
+     33) Sample          42      ACE-SLA                ACE-SLA                  
+     34) Sample          43      ACE-PA                 ACE-PA                   
+     35) Sample          44      ACE-PP                 ACE-PP                   
+     36) Sample          46      ACE-PET                ACE-PET                  
+     37) Sample          41      ACE-End-Blank          ACE-End-Blank            
+     38) Sample          51      EA-Blank               EA-Blank                 
+     39) Sample          52      EA-SLA                 EA-SLA                   
+     40) Sample          53      EA-PA                  EA-PA                    
+     41) Sample          54      EA-PP                  EA-PP                    
+     42) Sample          56      EA-PET                 EA-PET                   
+     43) Sample          58      EA-PLA                 EA-PLA                   
+     44) Sample          51      EA-End-Blank           EA-End-Blank             
+     45) Sample          61      TOL-Blank              TOL-Blank                
+     46) Sample          62      TOL-SLA                TOL-SLA                  
+     47) Sample          63      TOL-PA                 TOL-PA                   
+     48) Sample          64      TOL-PP                 TOL-PP                   
+     49) Sample          66      TOL-PET                TOL-PET                  
+     50) Sample          68      TOL-PLA                TOL-PLA                  
+     51) Sample          61      TOL-End-Blank          TOL-End-Blank            
+     52) Sample          11      END-MEOH               END-MEOH                 
+     
+    Sequence completed Wed Mar 06 10:53:48 2024
+     
+      D:\MassHunter\GCMS\Adam\Data\20240304-Plastic_solvents\2-Hour Exposure\2024 Mar
